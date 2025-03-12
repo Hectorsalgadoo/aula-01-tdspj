@@ -1,1 +1,4 @@
 Primeira alteração
+O nosso professor Alexandre de front end esta nos ensinando a usar o git para subir os arquivos e depois pegalo novamente em casa, e acabu de nos passar um ex para fazermos temos cirar um arquivo 
+com no minimo de 3 linhas. ja nao sei mais o que escrever, ele esta verificando o que estamos fazendo para saber se sabemos fazer mesmo o commit preciso escrever so mais um pouco para dar o minimo de 3 linhas
+consegi acabei de escrever as 3 linhas  
