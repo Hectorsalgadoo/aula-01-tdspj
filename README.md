@@ -33,3 +33,13 @@ e compartilhar meu progresso.
 ## 🎯 Objetivo
  
 Meu objetivo é me tornar um desenvolvedor web e criar projetos incríveis no futuro.
+
+5o COMMIT
+ 
+## 💬 Contato
+ 
+Se quiser trocar uma ideia ou compartilhar dicas, me avise! 😊
+ 
+---
+ 
+**Obrigado por visitar meu repositório!** ✨
